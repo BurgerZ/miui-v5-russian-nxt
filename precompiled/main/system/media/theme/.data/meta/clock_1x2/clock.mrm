@@ -1,4 +1,4 @@
-{
+﻿{
   "localId": "clock",
   "onlineId": null,
   "productId": null,
@@ -10,7 +10,7 @@
   "updatedTime": 0,
   "platform": 1,
   "title": "Перекидные",
-  "description": null,
+  "description": "Переведено BurgerZ, DriffeX",
   "author": null,
   "designer": null,
   "version": "1.2",
@@ -21,12 +21,6 @@
   "buildInPreviews": [
     "/system/media/theme/.data/preview/clock_1x2/clock/preview_clock_0.png"
   ],
-  "titles": {
-    "ru_RU": "Перекидные",
-	"en_US": "Default",
-    "zh_CN": "默认",
-    "zh_TW": "預設"
-  },
   "thumbnails": [],
   "previews": [],
   "parentResources": [],

@@ -21,12 +21,6 @@
   "buildInPreviews": [
     "/system/media/theme/.data/preview/clock_2x2/clock/preview_clock_0.png"
   ],
-  "titles": {
-    "ru_RU": "Аналоговые",
-	"en_US": "Default",
-    "zh_CN": "默认",
-    "zh_TW": "預設"
-  },
   "thumbnails": [],
   "previews": [],
   "parentResources": [],

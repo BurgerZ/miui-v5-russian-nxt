@@ -13,7 +13,7 @@
   "updatedTime": 0,
   "platform": 3,
   "title": "По умолчанию",
-  "description": "Перевод E-Lite Group",
+  "description": "Переведено BurgerZ MD",
   "author": "MIUI",
   "designer": "MIUI",
   "version": "1.0",
@@ -24,12 +24,6 @@
   "buildInPreviews": [
     "/system/media/theme/.data/preview/default/preview_contact_0.jpg"
   ],
-  "titles": {
-    "ru_RU": "По умолчанию",
-	"en_US": "Default",
-    "zh_CN": "默认",
-    "zh_TW": "預設"
-  },
   "thumbnails": [],
   "previews": [],
   "parentResources": [
